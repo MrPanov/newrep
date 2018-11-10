@@ -1,5 +1,8 @@
 public class newclas {
-    public void main (String[] args){
+    public static void main (String[] args){
+System.out.println("asd");
+System.out.println("asd");
+System.out.println("asd");
 System.out.println("asd");
 System.out.println("asd");
     }
